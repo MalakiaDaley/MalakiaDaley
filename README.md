@@ -1,4 +1,14 @@
-<h1>Hello I'm Malakia Daley </h1>
+<style>
+  .hoverEff {
+    transition:0.5s;
+  }
+
+  .hoverEff:hover {
+    color:blue;
+  }
+</style>
+
+<h1>Hello I'm <span class="hoverEff">Malakia Daley</span> </h1>
 
 <h2> About Me </h2>
 <p>I'm a 17 year old with huge passion for the IT industry. Looking into concepts such as software to web development and the security behind how these sites run.</p>
