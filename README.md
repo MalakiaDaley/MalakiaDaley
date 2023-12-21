@@ -5,4 +5,6 @@ Hi I'm @MalakiaDaley
 <ul>
   <li>Software Developing</li>
   <li>Cyber Security</li>
+  <li>Database Development</li>
+  <li>Web Development</li>
 </ul>
