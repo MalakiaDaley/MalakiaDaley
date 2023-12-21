@@ -13,3 +13,32 @@
   <li>Database Development</li>
   <li>Web Development</li>
 </ul>
+
+<h2> Programming Languages I Know </h2>
+
+<ul>
+  <li>Python</li>
+  <li>Javascript</li>
+  <li>SQL</li>
+  <li>C#</li>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+
+<h2> Programming Languages I'm Learning </h2>
+
+<ul>
+  <li>C++</li>
+  <li>C</li>
+  <li>Assembly</li>
+  <li>Ruby</li>
+</ul>
+
+<h2> My Goal? </h2>
+
+<p>My goal is to achieve success and rise up in the programming industry. </p>
+
+<hr>
+
+<h2> My Projects? </h2>
+<p>They'll all be linked on my github repository. </p>
