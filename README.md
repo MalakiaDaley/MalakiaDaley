@@ -1,13 +1,3 @@
-<style>
-  .hoverEff {
-    transition:0.5s;
-  }
-
-  .hoverEff:hover {
-    color:blue;
-  }
-</style>
-
 <h1>Hello I'm <span class="hoverEff">Malakia Daley</span> </h1>
 
 <h2> About Me </h2>
