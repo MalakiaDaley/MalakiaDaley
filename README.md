@@ -23,6 +23,8 @@
   <li>C#</li>
   <li>HTML</li>
   <li>CSS</li>
+  <li>C</li>
+  <li>C++</li>
 </ul>
 
 <h2> Programming Languages I'm Learning </h2>
@@ -41,4 +43,4 @@
 <hr>
 
 <h2> My Projects? </h2>
-<p>They'll all be linked on my github repository. </p>
+<p> They'll all be linked on my github repository. </p>
