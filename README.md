@@ -25,6 +25,7 @@
   <li>CSS</li>
   <li>C</li>
   <li>C++</li>
+  <li>Lua</li>
 </ul>
 
 <h2> Programming Languages I'm Learning </h2>
