@@ -4,6 +4,7 @@
 <p>I'm a 17 year old with huge passion for the IT industry. Looking into concepts such as software to web development and the security behind how these sites run.</p>
 <p>I'm Currently not employed.</p>
 <p>I like stormy days :D</p>
+<p> I'm so bored give me tasks I need stuff to do or I dive into deprivation.</p>
 
 <h2> My Interests is </h2>
 
