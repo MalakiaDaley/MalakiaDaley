@@ -45,4 +45,4 @@
 <hr>
 
 <h2> My Projects? </h2>
-<p> They'll all be linked on my github repository. </p>
+<p> My Personalised Notes </p>
