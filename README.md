@@ -34,6 +34,7 @@
   <li>C</li>
   <li>Assembly</li>
   <li>Ruby</li>
+  <li>C#</li>
 </ul>
 
 <h2> My Goal? </h2>
