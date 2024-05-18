@@ -45,3 +45,4 @@
 
 <h2> My Projects? </h2>
 <p> My Personalised Notes </p>
+<p>Django Frontend Database Manager</p>
