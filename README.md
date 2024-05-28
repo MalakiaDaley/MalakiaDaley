@@ -10,7 +10,7 @@
   <li>Software Developing</li>
   <li>Cyber Security</li>
   <li>Database Development</li>
-  <li>Web Development</li>
+  <li>Fullstack Developer</li>
 </ul>
 
 <h2> Languages I Know </h2>
@@ -46,3 +46,4 @@
 <h2> My Projects? </h2>
 <p> My Personalised Notes </p>
 <p>Django Frontend Database Manager</p>
+<p>Someblogagain.uk</p>
